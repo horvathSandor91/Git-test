@@ -1,3 +1,3 @@
 # Git-test
 this is a test repo
-(SFJ-San Franciscoból Jöttem) 
+(SFJ-San Franciscoból Jöttem Online Java Course)
